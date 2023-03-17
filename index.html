@@ -41,9 +41,11 @@
         Nessa parte entra as funções de fato do seu sistema
     -->
     <script>
-        var login=window.document.getElementById("login").value
-        var senha=window.document.getElementById("senha").value
-        alert("Login: "+login+" \nSenha: "+senha)
+        function clicar() {
+            var login=window.document.getElementById("login").value
+            var senha=window.document.getElementById("senha").value
+            alert("Login: "+login+" \nSenha: "+senha)
+        }
     </script>
 
 </head>
@@ -55,7 +57,7 @@
 
     <label>Senha: </label><input type="text" id="senha"> <br/><br/>
 
-    <input type="button" value="Enviar">
+    <input type="button" value="Enviar" onclick="">
 
     </body>
 </html> 
