@@ -1,3 +1,3 @@
-# SISTEMA DE IRRIGAÇÃO AUTOMOTATICO
+# SISTEMA DE IRRIGAÇÃO AUTOMATICO
 
-Planejamento 
+## Planejamento 
