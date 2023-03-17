@@ -1,3 +1,3 @@
-# sis.-irrigacao
+# SISTEMA DE IRRIGAÇÃO AUTOMOTATICO
 
 Planejamento 
